@@ -1,4 +1,4 @@
-:::writing{variant="standard" id="88888"}
+
 # Hi 👋, I'm Mekki Damak
 
 🎓 Graduate from ENSTA Paris & M2 Data Science (IP Paris)  
